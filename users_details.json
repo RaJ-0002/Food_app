@@ -1,0 +1,16 @@
+{
+    "raj@gmail.com": {
+        "full_name": "Raj",
+        "phone_number": 9632587410,
+        "email": "raj@gmail.com",
+        "address": "0-0,rama street",
+        "password": "raj"
+    },
+    "emily@gmail.com": {
+        "full_name": "emily",
+        "phone_number": 7458963201,
+        "email": "emily@gmail.com",
+        "address": "12th, ny",
+        "password": "emily"
+    }
+}

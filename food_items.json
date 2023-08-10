@@ -1,0 +1,26 @@
+{
+    "7012": {
+        "FoodID": "7012",
+        "Name": "Tandoori Chicken",
+        "Quantity": "4 pieces",
+        "Price": 240.0,
+        "Discount": 10.0,
+        "Stock": 20
+    },
+    "9674": {
+        "FoodID": "9674",
+        "Name": "Vegan Burger",
+        "Quantity": "1 piece",
+        "Price": 320.0,
+        "Discount": 20.0,
+        "Stock": 15
+    },
+    "5958": {
+        "FoodID": "5958",
+        "Name": "Truffle Cake",
+        "Quantity": "500gm",
+        "Price": 900.0,
+        "Discount": 15.0,
+        "Stock": 10
+    }
+}
